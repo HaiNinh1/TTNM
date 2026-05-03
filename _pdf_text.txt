@@ -1,0 +1,678 @@
+
+--- PAGE 1 ---
+TÍNH TIỆN DÙNG CỦA HỆ THỐNG 
+TƯƠNG TÁC
+1
+Presenter :  Nguyễn ThịThu Hương
+KHOA CÔNG NGHỆTHÔNG TIN 
+BỘ MÔN CÔNG NGHỆ PHẦN MỀM
+
+--- PAGE 2 ---
+Nội dung
+1. Một sốnguy cơ tiềm ẩn trong thiết kếUI
+2. Tính tiện dùng là gì?
+3. Các tính chất của tính tiện dùng
+4. Nguyên lý thiết kếhệthống có tính tiện dùng
+2
+
+--- PAGE 3 ---
+Các trởngại và nguy cơ tiềm ẩn
+trong thiết kế
+Gould (1988) đã đưa ra các nhận xét chung vềthiết kếnhư
+sau:
+▪
+Không có ai hài lòng với sản phẩm đầu tiên.
+▪
+Quá trình phát triển đầy rẫy những yếu tốkhông ngờ.
+▪
+Thiết kếphù hợp yêu cầu rất nhiều sáng tạo.
+▪
+Tạo ra những giao kèo nhằm bỏqua sựthay đổi sẽkhông bao giờloại trừ
+được nhu cầu cần thay đổi.
+▪
+Dù bạn tạo ra một hệthống tốt nhất có thểcó cho con người thì con người
+vẫn sẽmắc lỗi khi sửdụng nó.
+▪
+Người thiết kếcần những công cụtốt.
+▪
+Bạn phải có những mục tiêu thiết kếhành vi giống với các mục tiêu thiết kế
+thực thi.
+3
+
+--- PAGE 4 ---
+Một sốnguy cơ tiểm ẩn trong thiết kếUI
+▪
+Không phân tích và thấu hiểu nhu cầu mong muốn của người dùng
+▪
+Chỉtập trung vào tính năng và các thành phần thiết kế“đơn giản”
+hay “phù phiếm”
+▪
+Ít hoặc không sáng tạo trong các nguyên mẫu thành phần của bản
+thiết kế
+▪
+Không kiểm thửtính tiện dùng
+▪
+Đội thiết kếchưa có tầm nhìn chia sẻvới mục tiêu thiết kếgiao
+diện, người sửdụng
+▪
+Trao đổi giữa các thành viên trong đội thiết kếchưa đầy đủ
+4
+
+--- PAGE 5 ---
+Lời khuyên trong thiết kếcho khách hàng
+1.
+Xây dựng đội ngũ thiết kếquy củ
+2.
+Liên hệchặt chẽvới người sửdụng ngay từban
+đầu và trong quá trình thiết kếra đời
+3.
+Hiểu rõ người sửdụng và nhiệm vụcủa họ
+4.
+Kiến tạo các thiết kếthích hợp
+5.
+Thực hiện tạo mẫu và kiểm thửnhanh
+6.
+Hãy sửa đổi và lập lại quá trình thiết kếnếu cần
+7.
+Tích hợp thiết kếcho toàn bộcác thành phần của
+hệthống
+5
+
+--- PAGE 6 ---
+Tính tiện dùng của hệthống
+❖Khái niệm tính tiện dùng (usability/usable) được Bennett đề
+xuất lần đầu vào năm 1979.
+❖Năm 1991, Shacked định nghĩa tính tiện dùng: “khảnăng hệ
+thống được sửdụng bởi con người một cách dễdàng và hiệu
+quả”.
+❖Tính tiện dùng được xác định bởi “người sửdụng có thểsử
+dụng tốt các chức năng hệthống như thếnào”
+❖Định nghĩa của ISO 9241-11:
+Tính tiện dùng được xem như phạm vi trong đó sản phẩm
+được sửdụng bởi nhóm người xác định đểđạt được những
+mục tiêu xác định với tính hiệu quả(effectiveness), năng suất
+(efficiency) và sựthỏa mãn (satisfaction) trong ngữcảnh sử
+dụng xác định.
+6
+
+--- PAGE 7 ---
+Các khái niệm liên quan
+Mục tiêu (Goal): Kết quảdựkiến.
+Tính hiệu quả: Đem lại kết quảđúng như dựkiến. Đạt được
+mục tiêu một cách chính xác và đầy đủ(ví dụtốc độthực hiện
+cao, không lỗi).
+Hiệu suất: Tiêu hao năng lượng và tài nguyên phù hợp đểđạt
+được mục tiêu một cách chính xác và đầy đủ, thước đo mức
+độcốgắng của người sửdụng đểđạt được mục tiêu đềra.
+Sựthỏa mãn: Không bực dọc, lo lắng và có quan điểm tích cực
+với việc sửdụng sản phẩm.
+Ngữcảnh ứng dụng: Người sửdụng, nhiệm vụ, thiết bị(phần
+cứng, phần mềm,...), môi trường vật lý, xã hội.
+Nhiệm vụ(task): Các hoạt động cần thiết đểđạt được mục
+tiêu.
+7
+
+--- PAGE 8 ---
+Ví dụvềtính tiện dùng trong cuộc sống
+8
+
+--- PAGE 9 ---
+Các vấn đềtiện dùng thường gặp
+Năm 1994, Mandel theo báo cáo của các chuyên gia tại hãng IBM đã liệt kê 10
+vi phạm ảnh hưởng đến tính tiện dùng:
+1.
+Menu và biểu tượng nhập nhằng;
+2.
+Ngôn ngữchỉcho phép đi theo một hướng trong hệthống;
+3.
+Hạn chếđầu vào và thao tác trực tiếp;
+4.
+Hạn chếlựa chọn và điểm nổi bật;
+5.
+Trình tựcác bước không rõ ràng;
+6.
+Nhiều bước quản lý giao diện hơn thực hiện nhiệm vụ;
+7.
+Liên kết phức tạp với các ứng dụng khác và giữa các ứng
+dụng;
+8.
+Phản hồi và khẳng định không phù hợp;
+9.
+Hệthống kém đềphòng và kém thông minh;
+10. Các thông điệp lỗi, trợgiúp, tài liệu không phù hợp.
+9
+
+--- PAGE 10 ---
+Các vấn đề tiện dùng thường gặp
+Một nghiên cứu của Ceaparu (2004) cho thấy: người sử
+dụng đã dùng đến 40% thời gian sửdụng máy tính của
+họđểthửlàm cho máy tính làm việc hoặc làm cho máy
+tính hoạt động tốt hơn.
+Cài đặt khó khăn, những vấn đềcần giải quyết vềvirus,
+và kết nối đã gây khó khăn cho con người.
+Các hệthống gây trì hoãn cho công việc của người sử
+dụng hầu như là do các vấn đềvềhệđiều hành, thư điện
+tửvà trình duyệt Web.
+10
+
+--- PAGE 11 ---
+Các vấn đề tiện dùng thường gặp
+Galitz tổng kết các lỗi vềtính tiện dùng trong website đặc biệt là gây
+lãng phí thời gian và thường gây ức chếcho người sửdụng:
+1.
+Gây nhiễu thịgiác
+2.
+Làm giảm khảnăng đọc thông tin
+3.
+Nhiều chi tiết khó hiểu
+4.
+Nhiều trò gây bực mình
+5.
+Sựđiều hướng lẫn lộn
+6.
+Điều hướng không hiệu quả
+7.
+Tổchức hoạt động không hiệu quả
+8.
+Thanh cuộn quá dài và không hiệu quả
+9.
+Quá tải thông tin
+10. Sựkhông nhất quán trong thiết kế
+11. Thông tin quá cũ hoặc không đềngày tháng
+12. Thiết kếlỗi thời gây nên bởi sựmô phỏng các tài liệu hướng dẫn
+đã in và hệthống cũ
+11
+
+--- PAGE 12 ---
+Gây nhiễu thịgiác
+✓Sựthiếu đi “không gian trống”, nhiều đồhọa vô
+nghĩa,
+cách
+trang
+trí
+không
+cần
+thiết
+và
+lãng
+phí→website bốtrí các thành phần hỗn độn.
+✓Nội dung có ý nghĩa khó tìm →người sửdụng mất
+thời gian tìm.
+✓Các phần tửhiển thịvô dụng.
+12
+
+--- PAGE 13 ---
+13
+
+--- PAGE 14 ---
+Làm giảm khảnăng đọc thông tin
+✓Việc sửdụng quá nhiều các loại kiểu chữ, màu sắc
+biến ảo thất thường làm màn hình như cuộc chiến
+hỗn độn→giảm tập trung của người sửdụng, giảm
+khảnăng đọc của người sửdụng.
+✓Các nền của giao diện có màu sắc sáng hay có
+những bức tranh hoặc các mẫu hoa văn sẽlàm giảm
+đi tính dễđọc của các dòng chữđược viết phía trên.
+14
+
+--- PAGE 15 ---
+15
+
+--- PAGE 16 ---
+Nhiều chi tiết khó hiểu
+✓Một sốchi tiết tiết kếkhông liên quan tới chức năng,
+người sửdụng, xa rời mục đích sửdụng và không rõ
+ràng.
+✓Các nút hay các vùng lệnh mà không biểu thi trực
+quan→người sửdụng khó phát hiện.
+✓Ngôn ngữcũng thường xuyên bịlẫn lộn với các thuật
+ngữđược người phát triển sửdụng chứkhông phải
+là những từngữdành cho người sửdụng.
+16
+
+--- PAGE 17 ---
+17
+
+--- PAGE 18 ---
+18
+
+--- PAGE 19 ---
+Nhiều trò gây bực mình
+✓Các chi tiết chuyển động không ngừng, các dòng chữ
+chạy cuộn lên cuộn xuống, nhấp nháy hay những hình
+ảnh hoạt hình chạy lòng vòng sẽganh đua với các nội
+dung có ý nghĩa nhằm thu hút sựchú ý của người sử
+dụng
+✓Nhạc nền hay bất kỳâm thanh gì tựđộng bật lên sẽlàm
+gián đoạn sựtập trung của người sửdụng, hay các cửa
+sổkhông được yêu cầu tựđộng bật lên (pop-up
+windows) làm mất nhiều thời gian hơn của người sử
+dụng.
+→Khi giác quan người sử dụng bịtác động quá nhiều, thì
+hậu quảlà tầm nhìn của họbịgiới hạn đi nhiều
+19
+
+--- PAGE 20 ---
+20
+
+--- PAGE 21 ---
+21
+
+--- PAGE 22 ---
+Sựđiều hướng lẫn lộn
+✓Cấu trúc của một trang Web thường giống với một mê
+cung gồm rất nhiều trang đan xoắn vào nhau→làm người
+sửdụng lạc vào trong đó.
+✓Nghèo nàn, tủn mủn và thiếu sựtổchức tồn tại giữa các
+trang hay kích cỡvà độsâu của nhiều trang Web thậm
+chí có thểdẫn đến “mất cảm giác không gian”.
+✓Các đường liên kết điều hướng sẽdẫn đến các “ngõ cụt”
+(hay các điểm chết) mà từđó bạn không thểquay trởlại
+được, hoặc đưa bạn đến nơi mà bạn chẳng biết là đâu.
+→Sựđiều hướng lẫn lộn (hay định vịphức tạp) làm hỏng
+những kỳvọng của người sử dụng và gây ra hành vi không
+mong muốn.
+22
+
+--- PAGE 23 ---
+23
+
+--- PAGE 24 ---
+Điều hướng không hiệu quả.
+✓Người sửdụng phải đi ngang qua
+những trang có nội dung vô nghĩa
+đểtìm trang có nội dung cần thiết.
+✓Toàn bộmàn hình được dùng để
+trỏtới trang khác.
+→Đó là sựlãng phí lớn không gian
+đồhọa và chỉlàm gia tăng sốtrang
+một cách không cần thiết.
+24
+✓Đường dẫn qua mê cung điều hướng đó thường dài và chán
+ngắt. Rất nhiều dữliệu vô ích phải được sàng lọc qua trước
+khi nhu cầu được đáp ứng. Việc sửdụng hàng loạt các trang
+nhỏcùng với rất ít nội dung sẽthường sẽtạo ra cảm giác khó
+chịu
+
+--- PAGE 25 ---
+Tổchức hoạt động không hiệu quả
+Thời gian bịlãng phí vào làm những việc vô ích:
+✓Thời gian tải một trang vềcó thểkéo quá dài.
+Ví dụ, các trang chứa nhiều hình đồhọa hay bản đồ
+lớn, các tiêu đềnặng nề,hoặc quá nhiều màu sắc sẽ
+kéo dài thời gian tải xuống hơn là so với các trang
+hầu như chỉcó văn bản.
+✓Thông tin bịphân mảnh quá mức: có thểđòi hỏi
+điều hướng đến một chuỗi dài các đường liên kết để
+tới được nội dung cần thiết, và điều đó càng nhanh
+chóng làm người sửdụng dễmất phương hướng
+hơn.
+25
+
+--- PAGE 26 ---
+26
+
+--- PAGE 27 ---
+Thanh cuộn quá dài và không hiệu quả.
+Những trang dài quá đòi hỏi phải có thanh cuộn
+✓Người sửdụng có thểmất đi ngữcảnh nội dung.
+Ngoài tầm nhìn thì sẽởngoài tâm trí.
+✓Nếu các nhân tốđịnh vịvà nội dung quan trọng bị
+ẩn đi ởphía dưới, chúng có thểhoàn toàn bịbỏ
+qua.
+✓Phải cuộn thanh cuộn xuống đểthực hiện và hoàn
+thành các tác vụcó thểgây khó chịu cho người sử
+dụng…
+27
+
+--- PAGE 28 ---
+28
+
+--- PAGE 29 ---
+Quá tải thông tin
+Thông tin được tổchức kém hoặc khối lượng thông tin quá
+lớn sẽbắt người sửdụng phải nhớnhiều và có thểvượt
+quá khảnăng nhớcủa người đó.
+Trí óc bịquá tải do:
+✓Phải quyết định chọn hay bỏliên kết nào trong khi có quá
+nhiều lựa chọn trước mắt.
+✓Xác định thông tin nào là quan trọng và thông tin nào thì
+không.
+✓Xác nhận vịtrí thông tin trong một rừng thông tin dày đặc.
+✓Người sửdụng phải học đểcó thểsửdụng được trang Web.
+29
+
+--- PAGE 30 ---
+30
+
+--- PAGE 31 ---
+Sựkhông nhất quán trong thiết kế.
+▪Chủnhân của Website luôn muốn có đặc tính nhận
+dạng riêng cho trang Web của mình. Tuy nhiên,
+website rất khó chỉphục vụcho một nhóm nhỏngười
+dùng chính.
+▪Đểbảo đảm lợi ích của người sửdụng, một vài tính
+nhất quán cần phải có đểtạo sựgắn kết liền mạch
+giữa các Website.
+Ví dụtính nhất quán phải có đối với vịtrí của phần
+tửđiều hướng trên một trang hay hình dạng của các
+nút điều hướng (được đểnổi lên).
+▪GUI trong thiết kếcần phải được tuân thủ.
+31
+
+--- PAGE 32 ---
+32
+
+--- PAGE 33 ---
+Thông tin quá cũ hoặc không đềngày tháng
+Một trong những giá trịquan trọng của Website là “tính
+thời sự” của nó. Thông tin quá cũ hay không có ngày
+tháng cụthểsẽphá vỡsựtin cậy dành cho Website
+trong tâm trí người sửdụng, cho nên tính thời sựlà cần
+thiết.
+33
+
+--- PAGE 34 ---
+34
+
+--- PAGE 35 ---
+Các thiết kếlỗi thời
+Trang Web là môi trường mới cùng với tương tác người
+sửdụng được mởrộng và khảnăng hiển thịthông tin.
+Trong khi phần lớn những gì chúng ta được học trong
+thếgiới in ấn và thiết kếgiao diện của các hệthống
+thông tin cũ lại có thểđược ứng dụng cho Web.
+→Phải có cách nhìn mới, cách nghĩ mới khi thiết kế
+trang Web, bằng cách sử dụng các kỹthuật thiết kết
+hích hợp và mạnh nhất đã có
+35
+
+--- PAGE 36 ---
+36
+
+--- PAGE 37 ---
+Hướng dẫn thiết kếcó tính tiện dùng
+❖Thực tếlà đã có nhiều chuyên gia vềHCI đưa ra các hướng
+dẫn thiết kế. Các nhà nghiên cứu đều thống nhất vềviệc
+đóng góp vào xây dựng UI tốt, chỉkhác nhau ởchỗ: tổchức
+như thếnào những cái đã biết vào tập con của các luật.
+▪Jakob Nielsen có 10 heuristics (Phương pháp giải quyết vấn đề
+bằng kinh nghiệm).
+▪Bruce Tognazzini đềxuất 16 nguyên tắc, bao gồm cảsựgợi ý và
+luật Fitts.
+▪Norman đềxuất tập hướng dẫn bao gồm tính rõ ràng, sựgợi ý,
+ràng buộc, phản hồi…
+▪Hướng dẫn vềmôi trường làm việc (platform) cũng rất quan trọng,
+có ích và người thiết kếnên tuân thủchúng, đảm bảo sựnhất quán
+giữa các ứng dụng khác nhau chạy trên cùng platform.
+▪Mac, Windows, Gnom… đều có tập hướng dẫn thiết kếriêng
+37
+
+--- PAGE 38 ---
+Nguyên lý thiết kếhệthống có tính tiện dùng
+Don Norman đã mô tảtrong quyển sách “The Design of
+Everyday Things” đềxuất 6 nguyên lý thiết kếđểhệ
+thống có tính tiện dùng, bao gồm:
+▪Sựrõ ràng (Visibility)
+▪Phản hồi (Feedback)
+▪Ràng buộc (Constraints)
+▪Ánh xạ(Mapping)
+▪Nhất quán (Consistency)
+▪Gợi ý (Affordance)
+38
+
+--- PAGE 39 ---
+Một sốnguyên lý của Don Norman 
+❖Thiết kếhướng người sửdụng
+▪Xác định ai là người sửdụng
+▪Hiểu được các nhiệm vụcủa
+họ
+❖Luật Fitts
+▪Kích thước của các điều khiển
+liên quan đến tầm quan trọng
+của nó
+▪Các điều khiển nhỏrất khó
+chọn sửdụng
+❖Bộnhớ
+▪Sửdụng chia đoạn đểđơn
+giản hóa trình diễn thông tin
+▪Tối ưu hóa bộnhớlàm việc
+❖Hướng dẫn sửdụng màu
+▪Không phụ thuộc mạnh vào 
+việc phân biệt các màu
+▪Tránh màu đỏ trên nền xanh
+▪Tránh chi tiết là màu xanh nhỏ
+❖Nguyên lý Norman vềthao tác 
+trực tiếp
+▪Sự gợi ý
+▪Ánh xạ tự nhiên
+▪Rõ ràng
+▪Phản hồi
+39
+
+--- PAGE 40 ---
+Một sốnguyên lý Nielsen
+Mười hướng dẫn 
+1. Phù hợp thếgiới thực
+2. Nhất quán và chuẩn
+3.Trợgiúp và tài liệu
+4. Người sửdụng làm chủ
+5. Quan sát trạng thái hệthống
+6. Trực quan trạng thái hệthống
+7. Mềm dẻo và hiệu quả
+8. Quản lý lỗi
+9. Nhận dạng, không hồi tưởng
+10. Thiết kếmỹthuật và tối thiểu
+40
+
+--- PAGE 41 ---
+Làm rõ các nguyên lý thiết kếcó tính
+tiện dùng thông qua các ví dụ
+41
+
+--- PAGE 42 ---
+Sựrõ ràng – Sựphản hồi
+Sựrõ ràng
+▪Phần của hệthống liên quan đến tương tác phải được
+nhìn thấy
+▪Giúp người sửdụng nhận biết trạng thái hiện hành
+▪Cần được biết sẽthực hiện thao tác nào tiếp theo
+Ví dụ: Khi di chuột đến một vịtrí bất kỳtrên màn
+hình, người sử dụng cần được biết cái gì xảy ra khi nhấn
+chuột.
+Sựphản hồi
+▪Là cái hệthống thểhiện khi user hành động. Hình thức:
+Âm thanh, hình ảnh, hộp thông báo văn bản...
+Ví dụ: Gõ phím, xóa tệp...
+▪Thận trọng khi thiết kếphản hồi, âm thanh quá lớn khi gõ
+phím
+42
+
+--- PAGE 43 ---
+Sựràng buộc
+▪
+Độkhó sửdụng của hệthống phụthuộc vào tổng sốkhảnăng
+▪
+Các loại ràng buộc: Vật lý, Ngữnghĩa, Văn hóa và Logic
+43
+Ổ cắm máy tínhổ
+Đồchơi gắn máy 12 chi tiết
+Vật lý: Bánh trước chỉlắp vừa vào một vịtrí;
+Ngữnghĩa: Tài xếngồi trên ghếvà mặt quay 
+phía trước;
+Văn hóa :Đèn đỏlắp phía sau, đèn vàng lắp 
+phía trước;
+Logic:Hai đèn xanh, hai mẩu trắng đi với nhau
+
+--- PAGE 44 ---
+Ánh xạ
+▪
+Ánh xạlà quan hệgiữa điều khiển (controls) và ảnh hưởng của
+nó trên hệthống. Trong GUI, điều khiển là khái niệm liên quan
+đến các đối tượng đồhọa (ví dụ: phím nhấn).
+▪
+Ánh xạtựnhiên: Tương ứng vật lý và chuẩn văn hóa
+▪
+Ví dụ:
+▪Xoay tay lái ô tô về phía phải để rẽ phải
+▪Sử dụng âm thanh lớn hơn để nhập số lớn hơn và ngược lại trong 
+UI sử dụng âm thanh
+▪Bố trí công tắc trên bếp điện
+44
+
+--- PAGE 45 ---
+Quy ước
+Qui ước là ràng buộc vềvăn hóa. Các ràng buộc này
+ban đầu là tùy ý, nhưng được chấp nhận dần theo thời
+gian. Tuy nhiên, các qui ước vẫn còn rất khác nhau, nó
+phụthuộc theo các nền văn hóa khác nhau.
+45
+Tắt công tắc đèn
+– Mỹ: Bật xuống
+– Anh: Bật lên
+Mởvan vòi nước
+– Mỹ: Vặn ngược chiều
+– Anh: Vặn theo chiều kim đồng hồ
+Màu đỏ:
+– Mỹ: Nguy hiểm
+–
+Ấn Độ: Sống
+– Ai Cập: Chết chóc
+– Trung Quốc: Hạnh phúc
+
+--- PAGE 46 ---
+Nhất quán
+Nhất quán
+❖Nhất quán trong việc nhìn và cảm giác là yếu tốmấu chốt
+trong HCI tốt
+❖Ví dụ: Bốtrí thực đơn nhất quán với chuẩn Windows
+46
+
+--- PAGE 47 ---
+Nhất quán (tiếp)
+Nhất
+quán
+trong
+(internal
+consistency):
+Nhất
+quán
+ngay
+trong từng ứng dụng. Thí dụcác
+hộp thoại trong VB, C#.
+Nhất
+quán
+ngoài
+(external
+consistency):
+Nhất
+quán
+giữa
+các
+ứng
+dụng
+trong
+cùng
+platform.
+Nhất quán ẩn dụ
+Thí dụ, bốtrí của các phím OK
+và Cancel trong các ứng dụng
+Windows.
+47
+
+--- PAGE 48 ---
+Sựgợi ý
+Là việc đềcập đến khảnăng mà User xác định được cách
+sửdụng đối tượng như thếnào chỉbằng quan sát nó.
+48
+Ví dụ: Windows sửdụng nhiều khảnăng gợi ý
+
+--- PAGE 49 ---
+Một vài phép đo tính tiện dùng
+Tính tiện dùng, có thểđược hiểu thông qua quan sát đơn
+giản của người sửdụng, hoặc thảo luận với người đang sử
+dụng giao diện. Các phép đo này thiếu tính chính xác khoa
+học nhưng chúng sẽcung cấp dấu hiệu vềtính tiện dùng.
+1. Có phải người sửdụng hỏi nhiều câu hỏi hoặc thường
+dùng sổtay hướng dẫn?
+2. Họluôn có phản ứng tiêu cực?
+3. Có nhiều hành động không liên quan đang được thực
+hiện?
+4. Có nhiều thứđã bịbỏqua?
+5. Có phải ai cũng muốn dùng sản phẩm của bạn ko?
+49
+
+--- PAGE 50 ---
+Các tiêu chí đo tính tiện dùng của Tyldesley
+50
+
+--- PAGE 51 ---
+Kỹnghệhệthống có tính sửdụng
+❖Mấu chốt của kỹnghệhệthống có tính sửdụng là tiến
+trình thiết kếlặp. Các giai đoạn lặp:
+▪Thiết kế
+▪Cài đặt
+▪Đánh giá
+❖Sửdụng kết quảđánh giá đểtái thiết kếUI, xây dựng
+prototype mới và tiếp tục đánh giá
+❖Qua một sốlần lặp ta có thểcó UI đủtính tiện dụng
+như mong đợi.
+51
+Evaluate
+Implement
+Design
+
+--- PAGE 52 ---
+Quy trình thiết kếUI
+Phân tích và 
+tìm hiểu các 
+hoạt động của 
+người dùng
+Tạo bản mẫu 
+thiết kế trên 
+giấy
+Cùng người 
+dùng đánh giá 
+thiết kế
+Tạo bản mẫu 
+thiết kế động
+Cài đặt 
+giao diện người 
+dùng cuối cùng
+Cùng người 
+dùng đánh giá 
+thiết kế
+Bản mẫu 
+chạy được
+Bản mẫu 
+thiết kế
+52
+
+--- PAGE 53 ---
+Tổng kết bài
+▪Trảlời câu hỏi "Tính tiện dùng của hệthống là gì?“
+▪Tính chất của tính tiện dùng
+▪Các nguyên tắc thiết kếhệthống có tính sửdụng
+▪Qui trình thiết kếlặp đểtạo ra hệthống tương tác có
+tính tiện dùng.
+→Tính tiện dùng là quan trọng, nhưng nó chỉlà một
+trong các thuộc tính của hệthống như chức năng, giá,
+an ninh, kích thước, độtin cậy và tuân thủchuẩn của
+hệthống.
+53
+
+--- PAGE 54 ---
+Bài tập lớn số1
+Mỗi sinh viên làm bài tập theo yêu cầu sau:
+Tìm hiểu vềnhững lỗi trong thiết kếwebsite, đặc biệt
+là gây lãng phí thời gian và thường gây ức chếcho
+người sửdụng.
+▪Tập trung phân tích dựa vào các đặc tính của tính
+tiện dụng.
+▪Chỉrõ (những) bài viết mà sinh viên tham khảo.
+▪Tìm hình ảnh minh họa kèm theo ý kiến phân tích
+của anh/chị.
+Hạn nộp bài:
+Nộp trên piazza (Mục BTL_1) trước
+23h00 ngày 19/07/2022
+54
